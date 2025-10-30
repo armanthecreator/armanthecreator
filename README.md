@@ -4,7 +4,7 @@
 
 I'm Arman Ahmed, a passionate Web Developer and Digital Marketer with expertise in building modern, SEO-friendly WordPress websites. Over the years, I've helped clients and businesses establish their online presence, improve website performance, and grow through result-driven digital marketing strategies.
 
-Skills: HTML / CSS / JS / BOOTSTRAP / WORDPRESS / MARKETING & SEO
+Skills: HTML / CSS / JS / BOOTSTRAP / WORDPRESS / MARKETING & SEO / Google Ads / Facebook Ad Campaign
 
 - 🔭 I’m currently working on Pyonet 
 - 🌱 I’m currently learning JS 
